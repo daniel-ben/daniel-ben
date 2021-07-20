@@ -1,24 +1,24 @@
 ## About me 👋
 
 My name is Daniel and I'm a Front-end dev currently studying Information Systems at UFMS, MS, Brazil.
-I also have a degree in Biology and worked with Biogeography and Bioinformatics in my final paper.
+I also have a degree in Biology 🧬 and worked with Biogeography and Bioinformatics in my final paper.
 I speak Portuguese and English
 
-My languages:
-- Javascript (Pure, React, Nextjs, Styled Components)
+⚙️ My languages:
+- Javascript (Pure, React, Nextjs, 💅 Styled Components)
 - Python 
 - C++ 
 
 Where to find me
 *twitter shield* *linkedin shield*
 
-## 🔭 I’m currently working on
+## 🧠 I’m currently working on
  #### My portfolio
  A place to share my projects, sites, templates, icons, arts, and any other stuff I might work with
  
- [Check it out](https://github.com/daniel-ben/myportfolio)
+ - [Check it out](https://github.com/daniel-ben/myportfolio)
  
- #### Alurakut
+ #### 🎥 Alurakut
  I'm doing a social network based on Orkut. This is part of ImersãoReact from Alura.
  Languages and tools:
  Javacript, React, Nextjs, Styled Components
