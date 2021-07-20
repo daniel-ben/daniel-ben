@@ -10,7 +10,8 @@ I speak Portuguese and English
 - C++ 
 
 Where to find me
-*twitter shield* *linkedin shield*
+- [Twitter](https://twitter.com/tenente_dann)
+- [Linkedin](https://www.linkedin.com/in/contatodanielben/)
 
 ## 🧠 I’m currently working on
  #### My portfolio
