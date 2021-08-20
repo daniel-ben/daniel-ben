@@ -4,8 +4,10 @@ My name is Daniel and I'm a Front-end dev currently studying Information Systems
 I also have a degree in Biology 🧬 and worked with Biogeography and Bioinformatics in my final paper.
 I speak Portuguese and English
 
-⚙️ My languages:
-- Javascript (Pure, React, Nextjs, 💅 Styled Components)
+⚙️ My languages and tools:
+- HTML5
+- CSS (Vanilla, Saas)
+- Javascript (Vanilla, React, 💅 Styled Components)
 - Python 
 - C++ 
 
@@ -14,6 +16,15 @@ Where to find me
 - [Linkedin](https://www.linkedin.com/in/contatodanielben/)
 
 ## 🧠 I’m currently working on
+ ### Minesweeper
+ I'm learning React as I program this classical game.
+ 
+ - [Check it out](https://github.com/daniel-ben/campo-minado)
+
+## On hold 
+
+Decided to make a smaller project to understand React properly before keep going on these ones
+
  #### My portfolio
  A place to share my projects, sites, templates, icons, arts, and any other stuff I might work with
  
