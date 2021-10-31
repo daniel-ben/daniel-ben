@@ -1,51 +1,19 @@
 ## About me 👋
 
 My name is Daniel and I'm a Front-end dev currently studying Information Systems at UFMS, MS, Brazil.
-I also have a degree in Biology 🧬 and worked with Biogeography and Bioinformatics in my final paper.
+I also have a degree in Biology and worked with Biogeography and Bioinformatics in my final paper.
 I speak Portuguese and English
 
 ⚙️ My languages and tools:
 - HTML5
-- CSS (Vanilla, Saas)
+- CSS
 - Javascript (Vanilla, React, 💅 Styled Components)
 - Python 
 - C++ 
 
 Where to find me
-- [Twitter](https://twitter.com/tenente_dann)
 - [Linkedin](https://www.linkedin.com/in/contatodanielben/)
-
-## 🧠 I’m currently working on
- ### Minesweeper
- I'm learning React as I program this classical game.
  
- - [Check it out](https://github.com/daniel-ben/campo-minado)
-
-## On hold 
-
-Decided to make a smaller project to understand React properly before keep going on these ones
-
- #### My portfolio
- A place to share my projects, sites, templates, icons, arts, and any other stuff I might work with
- 
- - [Check it out](https://github.com/daniel-ben/myportfolio)
- 
- #### 🎥 Alurakut
- I'm doing a social network based on Orkut. This is part of ImersãoReact from Alura.
- Languages and tools:
- Javacript, React, Nextjs, Styled Components
- 
- Hosted on Vercel
- 
- - [Test it out](https://alurakut-one-snowy.vercel.app)
- - [Repository](https://github.com/daniel-ben/alurakut)
- 
- #### Aluraflix (no repository yet)
- Learning Back-end while making a Netflix with challenge based learning.
- Nothing to show **yet**
-
-
-
 <!--
 **daniel-ben/daniel-ben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
