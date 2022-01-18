@@ -11,6 +11,7 @@ I'm a front-end dev from Brazil currently unemployed with two cats to feed. Rece
 
 Where to find me
 - [Linkedin](https://www.linkedin.com/in/daniel-ben/)
+- [Twitter](https://twitter.com/tenente_dann)
 
 
 # I'm currently working on...
