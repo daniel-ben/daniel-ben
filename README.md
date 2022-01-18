@@ -10,7 +10,7 @@ I'm a front-end dev from Brazil currently unemployed with two cats to feed. Rece
 
 
 Where to find me
-- [Linkedin](https://www.linkedin.com/in/contatodanielben/)
+- [Linkedin](https://www.linkedin.com/in/daniel-ben/)
 
 
 # I'm currently working on...
