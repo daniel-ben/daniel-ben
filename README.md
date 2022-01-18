@@ -1,18 +1,30 @@
-## About me 👋
+# Hi there, I'm Daniel👋
 
-My name is Daniel and I'm a Front-end dev currently studying Information Systems at UFMS, MS, Brazil.
-I also have a degree in Biology and worked with Biogeography and Bioinformatics in my final paper.
-I speak Portuguese and English
+I'm a front-end dev from Brazil currently unemployed with two cats to feed. Recently I've been participating in coding events and making projects to build a nice portfolio.
 
 ⚙️ My languages and tools:
 - HTML5
 - CSS
-- Javascript (Vanilla, React, 💅 Styled Components)
+- Javascript
 - Python 
-- C++ 
+
 
 Where to find me
 - [Linkedin](https://www.linkedin.com/in/contatodanielben/)
+
+
+# I'm currently working on...
+### Alura Challenge - Code Editor
+This is a front-end project where I made a code editor and highlighter. Currently working on community page, where you can see other's code.
+
+You can see it [here (git)](https://github.com/daniel-ben/alura-challenge-2),
+or in it's [natural environment](daniel-ben.github.io/alura-challenge-2/)
+
+
+### Alura Challenge - Finance controller api
+I started this challenge this week (Jan, 18th) and I'll try to make an finance controller api with NodeJS. This is my first time working with back-end and I'll learn as I do the tasks from the challenge.
+
+You can see how this is going [here](https://github.com/daniel-ben/finance-controller)
  
 <!--
 **daniel-ben/daniel-ben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
