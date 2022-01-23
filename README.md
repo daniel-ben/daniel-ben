@@ -20,12 +20,6 @@ This is a front-end project where I made a code editor and highlighter. Currentl
 
 You can see it [here (git)](https://github.com/daniel-ben/alura-challenge-2),
 or in it's [natural environment](daniel-ben.github.io/alura-challenge-2/)
-
-
-### Alura Challenge - Finance controller api
-I started this challenge this week (Jan, 18th) and I'll try to make an finance controller api with NodeJS. This is my first time working with back-end and I'll learn as I do the tasks from the challenge.
-
-You can see how this is going [here](https://github.com/daniel-ben/finance-controller)
  
 <!--
 **daniel-ben/daniel-ben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
