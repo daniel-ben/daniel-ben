@@ -18,8 +18,7 @@ Where to find me
 ### Alura Challenge - Code Editor
 This is a front-end project where I made a code editor and highlighter. Currently working on community page, where you can see other's code.
 
-You can see it [here (git)](https://github.com/daniel-ben/alura-challenge-2),
-or in it's [natural environment](https://daniel-ben.github.io/alura-challenge-2/)
+You can see it [here (git)](https://github.com/daniel-ben/code-editor)
 
 ### Aluracord
 I'm making a Discord clone using React during Imersão React from Alura.
