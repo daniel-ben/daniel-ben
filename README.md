@@ -1,6 +1,6 @@
 # Hi there, I'm Daniel👋
 
-I'm a front-end dev from Brazil currently unemployed with two cats to feed. Recently I've been participating in coding events and making projects to build a nice portfolio.
+I'm a front-end dev from Brazil currently unemployed with three cats to feed. Recently I've been participating in coding events and making projects to build a nice portfolio.
 
 ⚙️ My languages and tools:
 - HTML5
@@ -18,7 +18,7 @@ Where to find me
 ### Alura Challenge - Code Editor
 This is a front-end project where I made a code editor and highlighter. Currently working on community page, where you can see other's code.
 
-You can see it [here (git)](https://github.com/daniel-ben/code-editor)
+You can see the code [here (git)](https://github.com/daniel-ben/code-editor) or check the app running [here](https://code-editor-phi.vercel.app)
 
 ### Aluracord
 I'm making a Discord clone using React during Imersão React from Alura.
