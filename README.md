@@ -33,6 +33,7 @@ I'm learning :
 <div>
  <img height="180em" src='https://github-readme-stats.vercel.app/api?username=daniel-ben&count_private=true&show_icons=true&theme=apprentice' />
  <img height="180em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-ben&theme=apprentice&layout=compact' />
+ <img src='https://github-readme-stats.vercel.app/api/wakatime?username=daniel_ben' />
 </div>
 
 ### Alura Challenge - Code Editor
