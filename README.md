@@ -4,27 +4,28 @@ I'm a front-end dev from Brazil currently unemployed with three cats to feed. Re
 
 Where to find me:
 <div>
- <a href="https://twitter.com/danielben0">
-  <img height="20px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- <a/>
- <a href="https://www.linkedin.com/in/daniel-ben/">
-  <img height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
- <a/>
+  <a href="https://twitter.com/danielben0">
+    <img height="20px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a/>
+  <a href="https://www.linkedin.com/in/daniel-ben/">
+    <img height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a/>
 </div>
   
 ##
  
 Languages and tools:
 <div>
- <img height='40px' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
- <img height='40px' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
- <img height='35px' width='35px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height='40px' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img height='40px' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img height='35px' width='35px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height='40px' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
   
 I'm learning : 
 <div>
- <img height='40px' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
- <img height='40px' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img height='40px' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height='40px' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 </div>
 
 # What I've been doing...
@@ -33,13 +34,12 @@ I'm learning :
 <div>
  <img height="180em" src='https://github-readme-stats.vercel.app/api?username=daniel-ben&count_private=true&show_icons=true&theme=apprentice' />
  <img height="180em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-ben&theme=apprentice&layout=compact' />
- <img src='https://github-readme-stats.vercel.app/api/wakatime?username=daniel_ben' />
 </div>
 
-### Alura Challenge - Code Editor
-This is a front-end project where I made a code editor and highlighter. Currently transforming it in SPA with Nextjs. I'm also learning how to use Styled Components.
+### AluraGeek eCommerce
+I'm making an eCommerce page for a made up company called AluraGeek during a code challenge. 
 
-You can see the code [here (git)](https://github.com/daniel-ben/code-editor) or check the app running [here](https://code-editor-phi.vercel.app).
+You can see the code [here (git)](https://github.com/daniel-ben/alura-geek-ecommerce) or check the app running [here](alura-geek-ecommerce.vercel.app).
 
 <!-- ### Aluracord
 I'm making a Discord clone using React during Imersão React from Alura.
