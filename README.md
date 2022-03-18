@@ -14,8 +14,8 @@
 I'm a Front-End dev from Brazil who loves technology and programming. Currently studying Front-end but I wish to become a Full-stack someday. Recently I've been participating in coding events and making projects to build a nice portfolio. I'm studying Typescript right now.
 
 <div align='center'>
-  <img height="180em" src='https://github-readme-stats.vercel.app/api?username=daniel-ben&count_private=true&show_icons=true&theme=apprentice' />
-  <img height="180em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-ben&theme=apprentice&layout=compact' />
+  <img height="160em" src='https://github-readme-stats.vercel.app/api?username=daniel-ben&count_private=true&show_icons=true&theme=apprentice' />
+  <img height="160em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-ben&theme=apprentice&layout=compact' />
 </div>
 
 <br/>
