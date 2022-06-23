@@ -38,16 +38,6 @@ I'm a Front-End dev from Brazil who loves technology and programming. Currently 
 
 # What I've been doing...
 
-### AluraGeek eCommerce
-I'm making an eCommerce page for a made up company called AluraGeek during a code challenge. 
-
-You can see the code [here (git)](https://github.com/daniel-ben/alura-geek-ecommerce) or check the app running [here](alura-geek-ecommerce.vercel.app).
-
-<!-- ### Aluracord
-I'm making a Discord clone using React during Imersão React from Alura.
-
-You check the code [here](https://github.com/daniel-ben/aluracord), and the app [here](https://aluracord-puce.vercel.app). -->
- 
 <!--
 **daniel-ben/daniel-ben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
