@@ -1,9 +1,9 @@
 ## 👋 Hi there, I'm Daniel
 
 <div>
-  <a href="https://twitter.com/danielben0">
+<!--   <a href="https://twitter.com/danielben0">
     <img height="25px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  <a/>
+  <a/> -->
   <a href="https://www.linkedin.com/in/daniel-ben/">
     <img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   <a/>
@@ -11,7 +11,7 @@
     
 <br/>
 
-I'm a Front-End dev from Brazil who loves technology and programming. Currently studying Front-end but I wish to become a Full-stack someday. Recently I've been participating in coding events and making projects to build a nice portfolio. I'm studying Typescript right now.
+I'm a Software Developer from Brazil who loves technology and programming. I have knowledge in Python, Typescript and Java. Currently pursuing a degree in Information Systems at UFMS, Brazil.
 
 <div align='center'>
   <img height="160em" src='https://github-readme-stats.vercel.app/api?username=daniel-ben&count_private=true&show_icons=true&theme=apprentice' />
@@ -20,23 +20,26 @@ I'm a Front-End dev from Brazil who loves technology and programming. Currently 
 
 <br/>
     
-<div >
+<!-- <div >
   <img height='40px' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img height='40px' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img height='35px' width='35px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height='40px' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-</div>
+</div> -->
 <br/><br/>
-
+<!-- 
 <div>
   I'm learning : <br/><br/>
   <img height='40px' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
   <img height='40px' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-</div>
+</div> -->
   
 ##
 
 # What I've been doing...
+  
+  - Making a software at university with another lab to catalog the trees in my city
+  - Making an IA to recognize movement and postures during physiotherapy sessions
 
 <!--
 **daniel-ben/daniel-ben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
